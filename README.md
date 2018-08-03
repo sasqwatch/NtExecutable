@@ -20,7 +20,7 @@ or:
 
 Just copy the `NtExecutable.exe` to `C:\Windows` and append `NtExecutable` to either one of these two.
 
-![Boot]()
+![Boot](https://raw.githubusercontent.com/Barakat/NtExecutable/master/boot.png)
 
 Random Notes:
 
