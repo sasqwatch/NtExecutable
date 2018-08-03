@@ -12,6 +12,8 @@ You can see the output of `NtDisplayString()` by using `smss.exe`
 ([Session Manager Subsystem](https://en.wikipedia.org/wiki/Session_Manager_Subsystem)) which executes 
 any program (like `autocheck`) listed under the Registry key:
 
+![Boot](https://raw.githubusercontent.com/Barakat/NtExecutable/master/boot-execute.png)
+
     HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\BootExecute
 
 or:
